@@ -1,0 +1,69 @@
+{
+  "navigation": [
+    { "label": "Om oss", "href": "#about" },
+    { "label": "Lösningar", "href": "#solutions" },
+    { "label": "Varför Spirec", "href": "#why-us" },
+    { "label": "Recensioner", "href": "#reviews" },
+    { "label": "Kontakt", "href": "#contact" }
+  ],
+  "solutions": [
+    {
+      "title": "Återbruk av material",
+      "text": "Vi ger byggmaterial ett nytt liv där det behövs som mest.",
+      "icon": "recycle"
+    },
+    {
+      "title": "Effektiv resursoptimering",
+      "text": "Maximera värdet av varje projekt genom smart hantering.",
+      "icon": "boxes"
+    },
+    {
+      "title": "Hållbar utveckling",
+      "text": "Bidra aktivt till en mer cirkulär byggbransch.",
+      "icon": "leaf"
+    },
+    {
+      "title": "Kostnadsbesparingar",
+      "text": "Minska onödiga utgifter och öka lönsamheten.",
+      "icon": "badge-euro"
+    }
+  ],
+  "reasons": [
+    {
+      "text": "Innovativa lösningar i framkant",
+      "icon": "sparkles"
+    },
+    {
+      "text": "Tydligt hållbarhetsfokus",
+      "icon": "shield-check"
+    },
+    {
+      "text": "Ekonomiskt smarta alternativ",
+      "icon": "wallet"
+    },
+    {
+      "text": "Pålitlig och professionell partner",
+      "icon": "briefcase-business"
+    }
+  ],
+  "reviews": [
+    {
+      "quote": "Spirec förändrade vårt sätt att arbeta med material – både ekonomiskt och hållbart.",
+      "author": "Byggföretag, Borås"
+    },
+    {
+      "quote": "En modern lösning som verkligen gör skillnad i byggbranschen.",
+      "author": "Projektledare"
+    },
+    {
+      "quote": "Smidigt, professionellt och framtidssäkert.",
+      "author": "Entreprenör"
+    }
+  ],
+  "contact": {
+    "company": "Spirec AB",
+    "org": "559398-7463",
+    "phone": "076-601 40 14",
+    "address": "Södra däckvägen 2, 50649 Borås"
+  }
+}
