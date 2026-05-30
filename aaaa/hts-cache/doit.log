@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://login.svea.com/?returnUrl=https%3A%2F%2Fauth.svea.com%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dsvea.common.mypages%26redirect_uri%3Dhttps%253A%252F%252Fmypages.svea.com%252Flogincallback%26response_type%3Did_token%2520token%26scope%3Dopenid%2520profile%2520common.mypages%26state%3D65bdf7cf6a9948b1a43b3a6940faf05e%26nonce%3D4d335789af70433da0151e592c864ae1%26acr_values%3DauthMode%253Aprod%2520applicationName%253Acommon.mypages_sv -O1 "C:\My Web Sites\aaaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Sat, 30 May 2026 16:24:02, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

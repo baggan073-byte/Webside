@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.svea.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_10_sn_0ADD6C08932BB4C255808FCA94303276_perc_100000_ol_0_mul_1_app-3A8dd84e3748898a1e_1
+login.svea.com	TRUE	/	FALSE	1999999999	persistance	!eYjQ5RRELpAFJdOuHPQl2zFR2OCkbIrbLrdK3ixgXGbm8zthDbHAD7dknQBYOkeoqW9DumFwRgramA==
+.login.svea.com	TRUE	/	FALSE	1999999999	TS018cb068	012b9147e6f19dd40e433eed85304a09726b3d00463ba364324f0c000d4b6caad689f4d86b074cf23e1795634f759aacb5e40105c33b72885777ce8170d2a11f45d91c1332df38f5efcfb5565c8c6e703d1dc12d83
+
